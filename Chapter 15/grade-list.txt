@@ -1,0 +1,16 @@
+Ezgi Akar,70,60,90
+John Akar,90,60,90
+Smith Akar,85,60,90
+Hello Akar,40,40,40
+Cloud Akar,30,60,90
+UTA Akar,10,60,90
+Business Akar,70,55,90
+College Akar,70,75,90
+Hi Akar,70,100,90
+Jennifer Akar,15,60,90
+Scott Akar,70,60,40
+Jen Akar,70,60,78
+Burcu Akar,70,60,89
+Pelin Akar,70,60,65
+Tim Akar,70,55,90
+Tommy Akar,70,15,90
